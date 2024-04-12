@@ -1,0 +1,25 @@
+.post{
+    background: #699ee4;
+    height: auto;
+    display: flex;
+    width: 20rem;
+    flex-direction: column;
+    place-items: center;
+    justify-content: center;
+    margin: 0.2rem 0;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.name{
+    font-size:x-large;
+    margin: 0.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.data{
+    font-size: x-large;
+    padding: 1rem;
+    font-style: italic;
+}
